@@ -1,4 +1,4 @@
-# Movie-Database-Interface-MID-
+# Movie Database Interface(MID)
 
 > Author: Roni Rengit
 
